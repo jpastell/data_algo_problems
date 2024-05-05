@@ -1,6 +1,8 @@
 #include <vector>
 #include <iostream>
 
+// https://www.enjoyalgorithms.com/blog/segment-tree-data-structure-part1
+
 using namespace std;
 
 
